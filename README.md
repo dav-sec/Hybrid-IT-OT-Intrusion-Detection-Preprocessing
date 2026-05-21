@@ -141,12 +141,4 @@ El dataset generado está preparado para:
 
 ---
 
-# Autor
 
-Proyecto desarrollado para investigación en ciberseguridad e IDS híbridos IT/OT utilizando Inteligencia Artificial.
-
----
-
-# Licencia
-
-MIT License
